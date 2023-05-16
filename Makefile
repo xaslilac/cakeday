@@ -1,5 +1,5 @@
 CC = clang
-CSTD ?= gnu2x
+CSTD ?= gnu99
 CFLAGS ?= -Wall -Wextra -Wpedantic
 LDFLAGS ?=
 
